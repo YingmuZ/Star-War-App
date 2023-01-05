@@ -1,0 +1,26 @@
+body {
+  height: vh;
+  background-image: url("https://lumiere-a.akamaihd.net/v1/images/star-wars-backgrounds-14_856985d9.jpeg");
+}
+
+.main-container {
+  text-align: center;
+  margin-top: 100px;
+}
+
+.film-containers {
+  margin-top: 20px;
+}
+
+h2 {
+  color: grey;
+}
+
+h2:hover {
+  color: white;
+}
+
+a {
+  text-decoration: none;
+  color: grey;
+}

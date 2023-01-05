@@ -1,0 +1,46 @@
+.film-info-box {
+  margin: 50px auto;
+  width: 80%;
+}
+
+#the-film {
+  display: inline-block;
+}
+
+.btn {
+  float: right;
+  margin-left: 50px;
+  border-radius: 2px;
+  box-shadow: 0 12px 16px 0 #faf60e85, 0 17px 50px 0 rgba(42, 233, 189, 0.919);
+}
+
+#film-intro {
+  color: white;
+  margin: 20px auto;
+  text-align: justify;
+}
+
+p {
+  color: grey;
+}
+
+p:hover {
+  color: white;
+}
+
+.card-title {
+  color: white;
+}
+
+.card {
+  background-color: black;
+  border-style: solid;
+  border-color: grey;
+  border-width: 2px;
+  text-align: center;
+}
+
+#all-cards {
+  width: 80%;
+  margin: 40px auto;
+}
